@@ -1,0 +1,21 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2018.11.29-ha4d7672_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-7.2.0-hdf63c60_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-7.2.0-hdf63c60_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.6-h470a237_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-hfc679d8_5.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.1-hfc679d8_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/openssl-1.0.2p-h470a237_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.4-h470a237_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h470a237_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/readline-7.0-haf1bffa_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.9-ha92aebf_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.26.0-hb1c47c0_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python-3.7.1-h5001a0f_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/certifi-2018.11.29-py37_1000.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-40.6.3-py37_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.32.3-py37_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pip-18.1-py37_1000.tar.bz2

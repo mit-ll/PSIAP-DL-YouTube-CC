@@ -1,0 +1,41 @@
+name: ytdl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.6=h470a237_2
+  - ca-certificates=2018.11.29=ha4d7672_0
+  - certifi=2018.11.29=py37_1000
+  - libffi=3.2.1=hfc679d8_5
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - ncurses=6.1=hfc679d8_2
+  - openssl=1.0.2p=h470a237_1
+  - pip=18.1=py37_1000
+  - python=3.7.1=h5001a0f_0
+  - readline=7.0=haf1bffa_1
+  - setuptools=40.6.3=py37_0
+  - sqlite=3.26.0=hb1c47c0_0
+  - tk=8.6.9=ha92aebf_0
+  - wheel=0.32.3=py37_0
+  - xz=5.2.4=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - pip:
+    - cachetools==3.0.0
+    - chardet==3.0.4
+    - google-api-python-client==1.7.7
+    - google-auth==1.6.2
+    - google-auth-httplib2==0.0.3
+    - google-auth-oauthlib==0.2.0
+    - httplib2==0.12.0
+    - idna==2.8
+    - oauthlib==2.1.0
+    - pyasn1==0.4.5
+    - pyasn1-modules==0.2.3
+    - requests==2.21.0
+    - requests-oauthlib==1.0.0
+    - rsa==4.0
+    - six==1.12.0
+    - uritemplate==3.0.0
+    - urllib3==1.24.1
+    - youtube-dl==2019.1.27
