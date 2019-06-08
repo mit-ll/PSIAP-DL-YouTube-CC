@@ -57,7 +57,7 @@ This effort is motivated by the increasing importance of video and imagery for p
 > **Thoughts on future development:** Increasingly, software developers will need to take advantage of new hardware innovations. With the increasing reliance on machine learning methods such as deep learning, developers will require access to ever-increasing quantities of data for both training and evaluation purposes. Going beyond static datasets (which can be overlearned), future algorithms will require constant novelty allowing for a state of never-ending unsupervised learning. This will require a migration from data-sets to data-sites and, perhaps, data-cities.
 
 ## Example Creative Commons Videos
-[![Working Vehicle Fire on Garden State Parkway NJ - Helmet Cam](https://img.youtube.com/vi/4pd1oEmsJiI/mqdefault.jpg)](https://youtu.be/4pd1oEmsJiI?t=234 "Working Vehicle Fire on Garden State Parkway NJ - Helmet Cam")
+[![Flood Preparedness from Cal OES](http://i3.ytimg.com/vi/rMuIEvaeQuU/mqdefault.jpg)](https://youtu.be/rMuIEvaeQuU "Flood Preparedness from Cal OES")
 [![Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)](https://img.youtube.com/vi/VbHaJbJ4_Ao/mqdefault.jpg)](https://youtu.be/VbHaJbJ4_Ao?t=58 "Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)")
 
 [![65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015](https://img.youtube.com/vi/TxniKN7jL8U/mqdefault.jpg)](https://youtu.be/TxniKN7jL8U?t=193 "T65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015")
