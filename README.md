@@ -58,7 +58,8 @@ This effort is motivated by the increasing importance of video and imagery for p
 
 ## Example Creative Commons Videos
 [![Flood Preparedness from Cal OES](http://i3.ytimg.com/vi/rMuIEvaeQuU/mqdefault.jpg)](https://youtu.be/rMuIEvaeQuU "Flood Preparedness from Cal OES")
-[![Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)](https://img.youtube.com/vi/VbHaJbJ4_Ao/mqdefault.jpg)](https://youtu.be/VbHaJbJ4_Ao?t=58 "Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)")
+[![Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)](https://img.youtube.com/vi/VbHaJbJ4_Ao/mqdefault.jpg)](https://youtu.be/VbHaJbJ4_Ao?t=58 "Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC?ref=badge_shield)
+")
 
 [![65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015](https://img.youtube.com/vi/TxniKN7jL8U/mqdefault.jpg)](https://youtu.be/TxniKN7jL8U?t=193 "T65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015")
 [![Navy Helo Crew Rescues Texans](https://img.youtube.com/vi/GoST8oc_6Zs/mqdefault.jpg)](https://youtu.be/GoST8oc_6Zs?t=152 "Navy Helo Crew Rescues Texans")
@@ -86,3 +87,7 @@ This effort is motivated by the increasing importance of video and imagery for p
 
 ## Disclaimer
 This work was performed under the following financial assistance award 70NANB17Hl69 from U.S. Department of Commerce, National Institute of Standards and Technology.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC?ref=badge_large)
