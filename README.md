@@ -1,5 +1,7 @@
 # PSIAP-DL-Youtube-CC
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC?ref=badge_shield)
+
 This python script downloads all Creative Commons licensed videos for a given YouTube channel. Downloads are saved to `FILEPATH/{video_id}.{ext}`, where `{video_id}` is the YouTube id of the video, and `{ext}` is the filetype extension. The metadata is also stored in `FILEPATH/{video_id}.info.json` as a JSON file. An additional utility file at `FILEPATH/dl_status` keeps track of the download status, and an informational file about the channel is stored at `FILEPATH/channel_summary.json`
 
 ## Usage
@@ -25,6 +27,7 @@ optional arguments:
 ```
 
 ## Requirements
+
 ### Python packages
 Python requirements listed in `environment.yml` conda environment file. Requires [conda](https://conda.io/en/master/). Create an environment with the required packages using:
 ```
@@ -58,8 +61,7 @@ This effort is motivated by the increasing importance of video and imagery for p
 
 ## Example Creative Commons Videos
 [![Flood Preparedness from Cal OES](http://i3.ytimg.com/vi/rMuIEvaeQuU/mqdefault.jpg)](https://youtu.be/rMuIEvaeQuU "Flood Preparedness from Cal OES")
-[![Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)](https://img.youtube.com/vi/VbHaJbJ4_Ao/mqdefault.jpg)](https://youtu.be/VbHaJbJ4_Ao?t=58 "Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC?ref=badge_shield)
-")
+[![Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)](https://img.youtube.com/vi/VbHaJbJ4_Ao/mqdefault.jpg)](https://youtu.be/VbHaJbJ4_Ao?t=58 "Sleeping to the GATES OF HELL in 6 minutes!! (Helmet Cam)")
 
 [![65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015](https://img.youtube.com/vi/TxniKN7jL8U/mqdefault.jpg)](https://youtu.be/TxniKN7jL8U?t=193 "T65. Callout - Storm Desmond - Cumbria Floods 5th Dec 2015")
 [![Navy Helo Crew Rescues Texans](https://img.youtube.com/vi/GoST8oc_6Zs/mqdefault.jpg)](https://youtu.be/GoST8oc_6Zs?t=152 "Navy Helo Crew Rescues Texans")
@@ -85,9 +87,10 @@ This effort is motivated by the increasing importance of video and imagery for p
 * Steven Talpas (NJOHSP)  
 * William Drew (NJOHSP)  
 
-## Disclaimer
+## Distribution Statement
+
 This work was performed under the following financial assistance award 70NANB17Hl69 from U.S. Department of Commerce, National Institute of Standards and Technology.
 
+### License
 
-## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmit-ll%2FPSIAP-DL-YouTube-CC?ref=badge_large)
